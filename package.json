@@ -1,0 +1,14 @@
+{
+  "name": "next-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shame-wizards-apprentice/next-portfolio.git",
+  "author": "shame-wizards-apprentice <rachelnelsonschille@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export"
+  }
+}
